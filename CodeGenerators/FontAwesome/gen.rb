@@ -6,6 +6,7 @@ iconNames = [];
 
 File.read("_variables.scss").each_line do |line| 
   parts = line.split(' ')
+  puts "parts: " + parts.join("-")
   name = parts[0]
   if name && name.start_with?('$fa-var-')
     name = name['$fa-var-'.length..(name.length) -2]

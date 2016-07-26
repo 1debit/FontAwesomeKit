@@ -1,0 +1,4 @@
+{ "name" : "chime-font-generator"
+, "version" : "1.0.0"
+, "dependencies" : { "glyphs2font" : "1.1.0" } 
+}

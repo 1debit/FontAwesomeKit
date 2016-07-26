@@ -1,0 +1,28 @@
+font:
+    svg:        example-font.svg
+    ttf:        example-font.ttf
+    eot:        example-font.eot
+    woff:       example-font.woff
+    css:        example-font.css
+    html:       example-font.html
+    name:       example
+    prefix:     example
+    fixedwidth: false
+    height:     1000
+    descent:    150
+    normalize:  true
+    center:     true
+    round:      10e12
+glyphs:
+    - glyph:    a.tag.svg
+      name:     tag
+      code:     0x0061
+    - glyph:    c.plus.svg
+      name:     failure
+      code:     0x0063
+    - glyph:    d.gear.svg
+      name:     plus
+      code:     0x0064
+    - glyph:    e.chat.svg
+      name:     minus
+      code:     0x0065
