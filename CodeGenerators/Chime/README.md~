@@ -32,5 +32,3 @@ _variables.scss    #Automatically generated for FontAwesomeKit
 FAKChime.fakgen.h  #Obj-C header
 FAKChime.fakgen.m  #Obj-C implementation
 ```
-
-Note: Included some SVG glyphs I scraped from the font file using BirdFont (if the final font file is blocky)
